@@ -1,0 +1,19 @@
+FOR:
+ es una palabra clave para formar un bucle. Necesitaremos tres cosas:
+ . Debemos declarar una variable, esto es lo que se repetira en bucle.
+ . Tendremos una expresion condicional, el bucle continuara sucediendo hasta que la declaracion sea false.
+ . Incrementaremos nuestra variable.
+ EJEMPLO:
+  
+    for(var i = o     ; i < 10               ; i++) {
+// Declaramos variable; expresion condicional; incremento de la variable|
+    console.log(i);
+}
+
+. Por otro lado tenemos los Operadores Logicos.
+&& ---- "Y" (AND)
+|| ---- "Ó" (OR)
+!  ---- "NO" (NOT)
+ 
+. Las expresiones se evaluaran en orden. En una declaracion &&, si la primera expresion es false, la segunda expresion no se evaluara por que ambas deben ser true.
+Lo mismo con las declaraciones ||. Si la primera es verdadera, la segunda no se evaluara ya que solo debe haber una declaracion verdadera para cumplir los requisitos del operador.
