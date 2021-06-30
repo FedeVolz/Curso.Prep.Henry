@@ -1,0 +1,11 @@
+MDN Arrays
+
+  	- El objeto Arrays de javascript es un objeto global que es usado en la construcion de arrays,
+  	que son  objetos tipo lista de alto nivel.
+
+  	- Los arrays son objetos similares a una lista cuyo prototipo proporciona metodos para efectuar
+  	operaciones de recorrido y de mutacion. Tanto la lonagitud como el tipo de los elementos de un array
+  	son variables. Dado que la longitud de un array puede cambiar en cuaquier momento, los datos se pueden 
+  	almacenar en ubicaciones no contiguas, no hay garantia de que los arrays de javascript sean densos
+  	; esto depende de como el programador elija usarlos. En general estas caracateristicas son comodas, pero si
+  	, en su caso particular, no resultan deseables, puede considerar el uso de arrays con tipo.
