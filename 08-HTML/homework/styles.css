@@ -1,0 +1,54 @@
+
+h1{
+    display: flex;
+    color: magenta;
+    justify-content: center;      
+}
+h3{
+    color: white;
+    display: flex;
+    justify-content: center;
+    
+
+}
+h4{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 400px;
+    display: flex;        
+    justify-content: center;
+    align-items: center;
+}
+#Thirdiv{
+    height: 500px;
+    width: 500px;
+    background-color: black;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid white 5px;
+    display: flex;     
+    justify-content: space-between;
+    align-items: center;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    color: white;
+    display: flex;        
+    justify-content: center;
+}
+body{
+    background: url(https://www.tinostone.com/wp-content/uploads/2019/03/Marquina_Black-Negro_Marquina.jpg);
+    background-size: cover;
+    
+}
+a{
+    color: white;
+    display: flex;        
+    justify-content: center;
+   
+}
